@@ -1,0 +1,14 @@
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\bin\Debug\net8.0\ISU-DGD203-Fall2024.exe
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\bin\Debug\net8.0\ISU-DGD203-Fall2024.deps.json
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\bin\Debug\net8.0\ISU-DGD203-Fall2024.runtimeconfig.json
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\bin\Debug\net8.0\ISU-DGD203-Fall2024.dll
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\bin\Debug\net8.0\ISU-DGD203-Fall2024.pdb
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.AssemblyInfoInputs.cache
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.AssemblyInfo.cs
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.csproj.CoreCompileInputs.cache
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.dll
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\refint\ISU-DGD203-Fall2024.dll
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.pdb
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ISU-DGD203-Fall2024.genruntimeconfig.cache
+C:\Users\barki\source\repos\ISU-DGD203-Fall2024\ISU-DGD203-Fall2024\obj\Debug\net8.0\ref\ISU-DGD203-Fall2024.dll
